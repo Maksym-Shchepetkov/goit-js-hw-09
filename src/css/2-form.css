@@ -119,3 +119,22 @@ button:focus {
   display: flex;
   flex-direction: column;
 }
+
+.go-back {
+  border-radius: 50%;
+  border: 2px solid #050505;
+  width: 24px;
+  height: 24px;
+  padding: 15px;
+  margin: 24px auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.go-back:hover,
+.go-back:focus {
+  border: 2px solid #0bcf53;
+  background-color: #14532b;
+  color: #ffffff;
+}
