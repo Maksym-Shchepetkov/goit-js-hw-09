@@ -1,3 +1,9 @@
+body {
+  font-family: 'Montserrat', serif;
+  padding: 24px 156px;
+  background-color: #f6f2f2;
+}
+
 h1,
 h2,
 h3,
